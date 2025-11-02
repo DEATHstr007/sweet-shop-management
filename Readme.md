@@ -1,25 +1,6 @@
 <img width="2545" height="1250" alt="image" src="https://github.com/user-attachments/assets/a16a859a-ac7d-4510-9924-83d3a509a211" />
 Testing Results
---------------------|---------|----------|---------|---------|-----------------------------------
-File                | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s
---------------------|---------|----------|---------|---------|-----------------------------------
-All files           |   49.23 |    32.46 |   35.29 |   51.33 |                                   
- backend            |   59.25 |       25 |       0 |   59.25 |                                   
-  server.js         |   59.25 |       25 |       0 |   59.25 | 4-5,28-33,38-41                   
- backend/middleware |    87.5 |    83.33 |     100 |    87.5 |                                   
-  auth.js           |    87.5 |    83.33 |     100 |    87.5 | 17,23                             
- backend/models     |   93.33 |       50 |     100 |     100 |                                   
-  Sweet.js          |     100 |      100 |     100 |     100 |                                   
-  User.js           |   91.66 |       50 |     100 |     100 | 13                                
- backend/routes     |   37.95 |    27.69 |      30 |      40 |                                   
-  auth.js           |   85.29 |       80 |     100 |   85.29 | 13,47,57,72-73                    
-  sweets.js         |   22.33 |       12 |    12.5 |   23.95 | ...13-121,131,136,148-149,155-173 
---------------------|---------|----------|---------|---------|-----------------------------------
-Test Suites: 1 failed, 1 passed, 2 total
-Tests:       3 failed, 6 passed, 9 total
-Snapshots:   0 total
-Time:        4.438 s, estimated 5 s
-Ran all test suites.
+<img width="1146" height="568" alt="image" src="https://github.com/user-attachments/assets/fdef8b4c-2172-4d7e-bc09-58fb3dd98927" />
 
 Sweet Shop Management System
 Full-stack application for managing sweet shop inventory with user authentication, search, and restock capabilities.
