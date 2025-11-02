@@ -1,3 +1,4 @@
+<img width="2545" height="1250" alt="image" src="https://github.com/user-attachments/assets/a16a859a-ac7d-4510-9924-83d3a509a211" />
 Sweet Shop Management System
 Full-stack application for managing sweet shop inventory with user authentication, search, and restock capabilities.
 
